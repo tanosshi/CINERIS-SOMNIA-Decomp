@@ -31,6 +31,6 @@ Todo
 
 # Credits
 
-- [tanos](https://github.com/tanosshi) - Android port, fixes and decomp 🚧
+- [tanos](https://github.com/tanosshi) - Decompilation 🚧
 
 - [NAYUTA STUDIO](https://nayutastudio.com/) - for making CINERIS SOMNIA 🧑‍🔬
