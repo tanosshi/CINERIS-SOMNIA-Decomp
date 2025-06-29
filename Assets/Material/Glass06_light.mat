@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Glass06_light
+  m_Shader: {fileID: 4800000, guid: 7892fc1048a786041be107a133398829, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FlowMap
+      second:
+        m_Texture: {fileID: 2800000, guid: ad5c6218b3e9b004cb753d49ee0710ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlowTexture
+      second:
+        m_Texture: {fileID: 2800000, guid: e9b0f2ec9b5a9c242b77520ef0b68c01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Noise
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _DistorScale
+      second: 0
+    - first:
+        name: _EdgeAlpha
+      second: 0.30367398
+    - first:
+        name: _Emission
+      second: 0
+    - first:
+        name: _FrezFalloff
+      second: 1.6262916
+    - first:
+        name: _FrezPow
+      second: 2
+    - first:
+        name: _Gloss
+      second: 0.13432837
+    - first:
+        name: _Metalics
+      second: 0.73880595
+    - first:
+        name: _Reflection
+      second: 0.49454653
+    - first:
+        name: _RevealPow
+      second: 128
+    - first:
+        name: _RevealSize
+      second: 1
+    - first:
+        name: _Shininess
+      second: 0.106103525
+    - first:
+        name: _Strength
+      second: 0
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Color
+      second: {r: 0.2761194, g: 0.2666378, b: 0.17927155, a: 0.5411765}
+    - first:
+        name: _FlowColor
+      second: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 0}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}

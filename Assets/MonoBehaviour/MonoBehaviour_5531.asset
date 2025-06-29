@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.5
+      value: -1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.65
+      value: -0.9994159
+      inSlope: 0.0011123803
+      outSlope: 0.0011123803
+      tangentMode: 0
+    - time: 2.7159774
+      value: -0.9979378
+      inSlope: 0.00027377903
+      outSlope: 0.00027377903
+      tangentMode: 0
+    - time: 2.7901313
+      value: -0.99342847
+      inSlope: 0.013262022
+      outSlope: 0.013262022
+      tangentMode: 0
+    - time: 2.8602111
+      value: -0.99225813
+      inSlope: -0.03405244
+      outSlope: -0.03405244
+      tangentMode: 0
+    - time: 2.928661
+      value: -0.99779785
+      inSlope: -0.055921525
+      outSlope: -0.055921525
+      tangentMode: 0
+    - time: 2.9999
+      value: -1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: c7d74c95a7228a845b7e28e5c2502cbb, type: 2}
+  - {fileID: 11400000, guid: 76dd012ad33da224191b51e4052ef77e, type: 2}
+  - {fileID: 11400000, guid: 077e5ef3b1244184398bd981b7aba15e, type: 2}
+  - {fileID: 11400000, guid: 43c21131cc4a90947a9029e4e3d9a063, type: 2}
+  - {fileID: 11400000, guid: a50f8c8cd2790164d83e8999cadf87df, type: 2}
+  - {fileID: 11400000, guid: 85107104adbcc714bb8ce32d66a9365b, type: 2}
+  - {fileID: 11400000, guid: ffb74503c76c058479abe48bbf76c4aa, type: 2}
+  - {fileID: 11400000, guid: 76303e92fc5338a40840a90055eeb3fe, type: 2}
+  useCurrentValue: 0
+  duration: 2.9999

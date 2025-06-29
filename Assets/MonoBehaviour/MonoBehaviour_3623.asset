@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 1
+  transitionDuration: 0.47999763
+  startTime: 47.6507
+  playbackDuration: 1.5000001
+  stateDuration: 1.5000001
+  stateName: Base.cat_SitHeadUp
+  track: {fileID: 11400000, guid: a853880d33276304ba7b6861512be890, type: 2}
+  targetObject: {fileID: 109, guid: fdf24f2fab5b8cf47bd6dc7e29e21820, type: 2}

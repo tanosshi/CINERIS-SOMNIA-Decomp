@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Specimen01_Glass
+  m_Shader: {fileID: 4800000, guid: 87b2963f025d1e44090773f4672f1247, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FlowMap
+      second:
+        m_Texture: {fileID: 2800000, guid: cc58b441fc3d0064db9144aae34535dc, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlowTexture
+      second:
+        m_Texture: {fileID: 2800000, guid: e9b0f2ec9b5a9c242b77520ef0b68c01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Noise
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _DistorScale
+      second: 0
+    - first:
+        name: _Emission
+      second: 0
+    - first:
+        name: _RevealPow
+      second: 128
+    - first:
+        name: _RevealSize
+      second: 1
+    - first:
+        name: _Shininess
+      second: 1
+    - first:
+        name: _Strength
+      second: 0
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 0}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _FlowColor
+      second: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 0}
+    - first:
+        name: _ReflColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.50000566, g: 0.50000566, b: 0.50000566, a: 0}

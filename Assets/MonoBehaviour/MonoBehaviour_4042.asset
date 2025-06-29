@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.7071068
+      inSlope: 0.3493438
+      outSlope: 0.3493438
+      tangentMode: 0
+    - time: 0.6
+      value: 0.9167131
+      inSlope: 0.28917304
+      outSlope: 0.28917304
+      tangentMode: 0
+    - time: 0.9
+      value: 0.9854138
+      inSlope: 0.12072543
+      outSlope: 0.12072543
+      tangentMode: 0
+    - time: 1.6
+      value: 0.9941278
+      inSlope: -0.016086798
+      outSlope: -0.016086798
+      tangentMode: 0
+    - time: 2.3
+      value: 0.9718167
+      inSlope: 0.0009994693
+      outSlope: 0.0009994693
+      tangentMode: 0
+    - time: 2.9
+      value: 0.98580307
+      inSlope: -0.3238968
+      outSlope: -0.3238968
+      tangentMode: 0
+    - time: 3.4
+      value: 0.84692025
+      inSlope: -0.4459615
+      outSlope: -0.4459615
+      tangentMode: 0
+    - time: 4
+      value: 0.7679169
+      inSlope: -0.19750829
+      outSlope: -0.19750829
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: e368a5212d0d68b4292b41c66c085157, type: 2}
+  - {fileID: 11400000, guid: 3a42c0fe9d760cb449fd806d86c697bd, type: 2}
+  - {fileID: 11400000, guid: 697d82c7f6f1c8d45abee4108a47a5d6, type: 2}
+  - {fileID: 11400000, guid: f7d5ab5188416b648a5bf20a1c821386, type: 2}
+  - {fileID: 11400000, guid: c52b07c9f356c824fbecd281e3bc1a49, type: 2}
+  - {fileID: 11400000, guid: 084b9a379fb1f414d8cb000b0dee8db4, type: 2}
+  - {fileID: 11400000, guid: 9dc0dfb9cecf42e41848b36a10ee4f5d, type: 2}
+  - {fileID: 11400000, guid: 9bddfe019ea570e4aaa3226328c6a325, type: 2}
+  useCurrentValue: 0
+  duration: 4

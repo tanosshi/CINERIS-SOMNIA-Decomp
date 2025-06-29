@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -0.26945722
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 3.4203491
+      value: -0.039408606
+      inSlope: 0.31015015
+      outSlope: 0.31015015
+      tangentMode: 0
+    - time: 4
+      value: 0.28116238
+      inSlope: 0.053988937
+      outSlope: 0.053988937
+      tangentMode: 0
+    - time: 7.8
+      value: 0.4035752
+      inSlope: -0.006188223
+      outSlope: -0.006188223
+      tangentMode: 0
+    - time: 8.799927
+      value: 0.43753105
+      inSlope: -0.12324681
+      outSlope: -0.12324681
+      tangentMode: 0
+    - time: 10.78534
+      value: -0.11928207
+      inSlope: -0.14015095
+      outSlope: -0.14015095
+      tangentMode: 0
+    - time: 11.531982
+      value: -0.56338423
+      inSlope: -0.29727167
+      outSlope: -0.29727167
+      tangentMode: 0
+    - time: 15
+      value: -0.56249684
+      inSlope: -0.19763273
+      outSlope: -0.19763273
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 59f6a7eb5b97fae429458cd30221f285, type: 2}
+  - {fileID: 11400000, guid: 0a3e2ea49931fcd42b3a66173dc275fd, type: 2}
+  - {fileID: 11400000, guid: 236900e4d9f26704eaef7d7a9dfaa6f5, type: 2}
+  - {fileID: 11400000, guid: b5c020421d8d6a14ab8d347972b2b305, type: 2}
+  - {fileID: 11400000, guid: 9e3fb9aee87bca04ea431bb5d63ee7fc, type: 2}
+  - {fileID: 11400000, guid: 38e6f9297b2f5e449b762b5d352cbbea, type: 2}
+  - {fileID: 11400000, guid: 0c4c3d305ca94ad4fbbc9c5ca03c2d78, type: 2}
+  - {fileID: 11400000, guid: 47ec0cd33a6d14e4981614a2ae76e711, type: 2}
+  useCurrentValue: 0
+  duration: 15

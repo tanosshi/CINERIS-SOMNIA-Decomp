@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -0.29478386
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.5
+      value: -0.29478386
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: -0.083796196
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.2091312
+      value: -0.13819446
+      inSlope: 0.0045835674
+      outSlope: 0.0045835674
+      tangentMode: 0
+    - time: 2.411143
+      value: -0.083796196
+      inSlope: 0.10381201
+      outSlope: 0.10381201
+      tangentMode: 0
+    - time: 2.7205377
+      value: -0.10287301
+      inSlope: -0.036986608
+      outSlope: -0.036986608
+      tangentMode: 0
+    - time: 3.0177064
+      value: -0.10653255
+      inSlope: 0.017413732
+      outSlope: 0.017413732
+      tangentMode: 0
+    - time: 3.5
+      value: -0.083796196
+      inSlope: 0.047142148
+      outSlope: 0.047142148
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 6c49cb5cafdf42c4c9e985c4c10b27d2, type: 2}
+  - {fileID: 11400000, guid: 14b7492a642e1d74fbad8e5df0b53212, type: 2}
+  - {fileID: 11400000, guid: 3450ab35715a31e4eaf1851601ed5141, type: 2}
+  - {fileID: 11400000, guid: e44fb668c6d649a4fb51edf025adc36d, type: 2}
+  - {fileID: 11400000, guid: 7010470e185d4c944a74a70b97a67ff8, type: 2}
+  - {fileID: 11400000, guid: c74ce86d7e8d68340a89e2e8ea658de9, type: 2}
+  - {fileID: 11400000, guid: 1952a391828aa7347b2ad92c19b3253a, type: 2}
+  - {fileID: 11400000, guid: 49786d3f4119a5642a42b26f8fbc990f, type: 2}
+  useCurrentValue: 0
+  duration: 3.5

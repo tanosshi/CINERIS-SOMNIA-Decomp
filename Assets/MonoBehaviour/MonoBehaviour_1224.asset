@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 320465226, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animator: {fileID: 1601, guid: 7a9da1d6e92c84e4fbcc749bdc84e563, type: 2}
+  animationTimeline: {fileID: 1884, guid: 7a9da1d6e92c84e4fbcc749bdc84e563, type: 2}
+  allClips:
+  - {fileID: 11400000, guid: f00520bcb4ee042479c16c5c00aada15, type: 2}
+  - {fileID: 11400000, guid: 9790620eb6d0fca48b9e0774923c2483, type: 2}
+  - {fileID: 11400000, guid: fda04486e16ec1542808bf0cbab2fbdb, type: 2}
+  - {fileID: 11400000, guid: 122aa63ae6f532546ae30ec1c5b13444, type: 2}
+  - {fileID: 11400000, guid: 873f3403e6c18774daacd83ced77e8ef, type: 2}
+  - {fileID: 11400000, guid: c666d745c5697da4c8d3cea4d7481948, type: 2}
+  - {fileID: 11400000, guid: 5350cde75d8f8ce4db42cc410e0d3cd1, type: 2}
+  - {fileID: 11400000, guid: e462e5807c6e97b41a91b3ebfdc0d414, type: 2}
+  - {fileID: 11400000, guid: 39880efd97a670f4f8bdce115a0c7177, type: 2}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 85539c89e59c75743805aa040e2433fd
+timeCreated: 1751231689
+licenseType: Free
+AudioImporter:
+  serializedVersion: 4
+  name:
+  format: 2
+  quality: 0
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  output:
+    previewData: []
+    importedType: 0
+  userData:

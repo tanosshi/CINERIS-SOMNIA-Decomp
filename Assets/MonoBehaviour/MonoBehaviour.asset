@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 0
+  transitionDuration: 0
+  startTime: 45.6701
+  playbackDuration: 2.65
+  stateDuration: 2.65
+  stateName: Face.01_07
+  track: {fileID: 11400000, guid: 5abcb6656f5707a43bbed4ff2025e55c, type: 2}
+  targetObject: {fileID: 924, guid: 7b643bf23652dd94d919cd2d50757bfc, type: 2}

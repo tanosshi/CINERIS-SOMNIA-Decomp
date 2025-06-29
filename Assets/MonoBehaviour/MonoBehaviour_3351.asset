@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 1
+  transitionDuration: 0.6499996
+  startTime: 17.5
+  playbackDuration: 9.3
+  stateDuration: 2.3333335
+  stateName: Base Layer.cut_13_1_5
+  track: {fileID: 11400000, guid: 294f0b8d8c090ab40bd571af5da3e864, type: 2}
+  targetObject: {fileID: 239, guid: 7cbf69048c84b9e4b91bac61d7088911, type: 2}

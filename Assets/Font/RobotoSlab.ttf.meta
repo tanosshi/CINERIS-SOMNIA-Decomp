@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e3e78c1291ad5e04e8b4b2851c4822aa
+timeCreated: 1751232271
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 2
+  name:
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Roboto Slab
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  userData:

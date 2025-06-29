@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 1
+  transitionDuration: 0.53999996
+  startTime: 42
+  playbackDuration: 5.67
+  stateDuration: 2.5
+  stateName: Base.Encount2_2_03
+  track: {fileID: 11400000, guid: bd8878e296d7abf48818b5b971e58b3e, type: 2}
+  targetObject: {fileID: 104, guid: 853ba7371bb810a46a88a5d48fbf1d7a, type: 2}

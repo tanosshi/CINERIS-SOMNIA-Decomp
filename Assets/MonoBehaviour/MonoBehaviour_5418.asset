@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 8.879341E-08
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.5
+      value: 8.879341E-08
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.65
+      value: 0.014795196
+      inSlope: 0.028175086
+      outSlope: 0.028175086
+      tangentMode: 0
+    - time: 2.7159774
+      value: -0.0046740198
+      inSlope: -0.03746736
+      outSlope: -0.03746736
+      tangentMode: 0
+    - time: 2.7901313
+      value: -0.10036989
+      inSlope: -0.37282073
+      outSlope: -0.37282073
+      tangentMode: 0
+    - time: 2.8602111
+      value: -0.060062706
+      inSlope: 0.8069487
+      outSlope: 0.8069487
+      tangentMode: 0
+    - time: 2.928661
+      value: -0.031071058
+      inSlope: 0.42984936
+      outSlope: 0.42984936
+      tangentMode: 0
+    - time: 2.9999
+      value: 8.879341E-08
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: c99acf8d1e1a3534a85e8f9e562c1619, type: 2}
+  - {fileID: 11400000, guid: cc2951b8b5d2f6c45ac6024a9bf1dc57, type: 2}
+  - {fileID: 11400000, guid: a10f8b509a1fb2a4aa0fe13a05a8d4d5, type: 2}
+  - {fileID: 11400000, guid: 7fe9f83389a60c740be6d7a460c97165, type: 2}
+  - {fileID: 11400000, guid: 29fcf912a86755242824ab17f4288385, type: 2}
+  - {fileID: 11400000, guid: 234879ed899a5fc468cadbae8db42cec, type: 2}
+  - {fileID: 11400000, guid: 8f4a6402437954e4bab735a88e0d35e7, type: 2}
+  - {fileID: 11400000, guid: f68fa81e4820c274fbbcd34ac7f5d063, type: 2}
+  useCurrentValue: 0
+  duration: 2.9999

@@ -1,0 +1,965 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5af3d705ae43fd82c0780f84763c7f30, type: 3}
+  m_Name: PurposeDatabase
+  m_EditorClassIdentifier:
+  purposes:
+  - purposeNameJap: Dummy
+    purposeNameEng: Dummy
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 998
+    appearSwitchId: 998
+    disappearSwitchId: 998
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 青い鳥を探す
+    purposeNameEng: Find Blue Bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 30251d366e9584943abff196cf18e1ec, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 601
+    disappearSwitchId: 694
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女に鳥かごを渡す
+    purposeNameEng: Give bird cage to the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 3b4d86541de099d4cba962417562529d, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 705
+    disappearSwitchId: 610
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 青い鳥を追いかける
+    purposeNameEng: Follow blue bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 91529172c6ec0bf438855949ad840e8a, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 694
+    disappearSwitchId: 706
+    subPurposeFlag: 0
+    deleteFlag: 1
+  - purposeNameJap: 青い鳥を追いかける
+    purposeNameEng: Follow blue bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: edadb5f259455c541bcd21465ed92242, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 706
+    disappearSwitchId: 696
+    subPurposeFlag: 0
+    deleteFlag: 1
+  - purposeNameJap: 青い鳥を追いかける
+    purposeNameEng: Follow blue bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: a0237e9598ea90648834b589aae39f55, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 696
+    disappearSwitchId: 708
+    subPurposeFlag: 0
+    deleteFlag: 1
+  - purposeNameJap: 青い鳥を追いかける
+    purposeNameEng: Follow blue bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: e1ac1db73b035ce4da0170e46055dad8, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 708
+    disappearSwitchId: 710
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 青い鳥を入手する
+    purposeNameEng: Obtain Blue Bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: e8d3f1b7a91b50a42809a971a68759c4, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 710
+    disappearSwitchId: 648
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └大きな鳥かごの鍵を入手する
+    purposeNameEng: └Acquire large birdcage key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: c57900267508fe743ae0654a762d6578, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 710
+    disappearSwitchId: 622
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: └青い鳥を作る
+    purposeNameEng: └Create Blue Bird
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 7666e26050452984d9e2e2547f4eb74f, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 639
+    disappearSwitchId: 663
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └顔料を入手する'
+    purposeNameEng: ' └Obtain Dye'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 426401f1838daeb45bf4409adf5baada, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 634
+    disappearSwitchId: 641
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 少女を追いかける
+    purposeNameEng: Follow girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 36faf41ec7efa02488348ba28171e5b3, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 617
+    disappearSwitchId: 711
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └板を取り除く
+    purposeNameEng: └Remove plank
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 8cb21b7e88d6c5c48ab6bc6aae721d60, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 617
+    disappearSwitchId: 619
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └板を取り除く道具を探す'
+    purposeNameEng: ' └Find a plank-removing tool'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 29721f4e70973fe489e7c71d07e3f609, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 617
+    disappearSwitchId: 616
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ドールハウスへ向かう
+    purposeNameEng: Head to dollhouse
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: e93030173018a3c4dbaba3a50a222f67, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 633
+    disappearSwitchId: 634
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 801
+    appearSwitchId: 633
+    disappearSwitchId: 998
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 801
+    appearSwitchId: 633
+    disappearSwitchId: 998
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 801
+    appearSwitchId: 633
+    disappearSwitchId: 998
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 少女に青い鳥を渡す
+    purposeNameEng: Give Blue Bird to the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 30b26c6eb1a7a9c48875e4d705bbd457, type: 3}
+    enableSwitchId: 801
+    appearSwitchId: 648
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 998
+    appearSwitchId: 0
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 赤銅色の鍵を使う
+    purposeNameEng: Use Brown Key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: c3eb465b5325859419ac81b6ce736933, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 308
+    disappearSwitchId: 311
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 地下に落ちている鍵を入手する
+    purposeNameEng: Obtain fallen key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 76fc6429e5c229240a71c1543d55eff2, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 308
+    disappearSwitchId: 316
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 朝食室へ向かう
+    purposeNameEng: Head to Breakfast Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 3467184e82c464b40a0e2062a611e3db, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 316
+    disappearSwitchId: 444
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ベルが鳴った場所を突き止める
+    purposeNameEng: Figure out bell's location
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4cd8f5cd2dfb0c440bf607a72cd5f594, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 330
+    disappearSwitchId: 333
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 晩餐室へ向かう
+    purposeNameEng: Head to Dining Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 9c90798e81bb66e4688ab19c3ccdbd9e, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 333
+    disappearSwitchId: 447
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 黒い鍵を入手する
+    purposeNameEng: Obtain Black Key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: dd121b405ce4def419c67203da6ae2e2, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 338
+    disappearSwitchId: 341
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 黒い鍵を使う
+    purposeNameEng: Use Black Key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: e6a4df50807d58941adc1631069dab70, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 341
+    disappearSwitchId: 344
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 音楽室の鍵を入手する
+    purposeNameEng: Obtain Music Room key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 5e7beef6e3141b748a7f3564b84d6684, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 340
+    disappearSwitchId: 365
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ビリヤードルームへ向かう
+    purposeNameEng: Head to Billiard Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 915bbc94026437b49b5e9cf038af292f, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 345
+    disappearSwitchId: 448
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 音楽室へ向かう
+    purposeNameEng: Head to Music Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: a9d44efc8b7ddb540be0cbc44a8196fe, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 365
+    disappearSwitchId: 449
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 夫人の部屋へ向かう
+    purposeNameEng: Head to madam's room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4b392625ba0573f4bbbb9eac47b9e8e1, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 396
+    disappearSwitchId: 370
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 帽子箱を少女の部屋に届ける
+    purposeNameEng: Carry Hat Box to girl's room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 730ef879c2c1a414c8a5cad8117916fa, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 370
+    disappearSwitchId: 399
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └帽子箱を入手する
+    purposeNameEng: └Obtain Hat Box
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4f9f4bab6e7704e4b835f4d0a3e90385, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 370
+    disappearSwitchId: 400
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 夫人の部屋に戻る
+    purposeNameEng: Return to madam's room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 2480b65d6bcaf724f880c5ab5a506d43, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 399
+    disappearSwitchId: 398
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 黒い棺を開ける
+    purposeNameEng: Open black coffin
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 97ca6cd748cc016488f81322b2a792cd, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 351
+    disappearSwitchId: 355
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └鎖を切断する道具を探す
+    purposeNameEng: └Find a chain-cutting tool
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 93e5b6744be54d24abc3761e57966bf4, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 351
+    disappearSwitchId: 322
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 粗末な棺を開ける
+    purposeNameEng: Open shabby coffin
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 201bc8efb37637348abbf2c8467259ba, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 355
+    disappearSwitchId: 373
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └針金を切断する道具を探す
+    purposeNameEng: └Find a wire-cutting tool
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 9cb3679e957ff8d4ba62141c2609d507, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 355
+    disappearSwitchId: 368
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └ピアノの蓋の鍵を入手する'
+    purposeNameEng: ' └Obtain piano lid key'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 3ca31f7f49c5c784d8c254cd9d727971, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 712
+    disappearSwitchId: 382
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 802
+    appearSwitchId: 712
+    disappearSwitchId: 998
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 帽子箱を開ける
+    purposeNameEng: Open Hat Box
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 61c644941e86adf44a4cedafa50eb594, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 373
+    disappearSwitchId: 374
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └リボンを切断する道具を探す
+    purposeNameEng: └Find a ribbon-cutting tool
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: aa19b6cf25bbfba498c0e431639f4ad6, type: 3}
+    enableSwitchId: 802
+    appearSwitchId: 373
+    disappearSwitchId: 364
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 998
+    appearSwitchId: 0
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 灯台へ向かう
+    purposeNameEng: Head to the lighthouse
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 861e3a18646dfd64fbc66cf204f869ef, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 803
+    disappearSwitchId: 811
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 最上階へ向かう
+    purposeNameEng: Head to the top floor
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 56a7586224e819643bb3ecfa6c37f7d4, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 811
+    disappearSwitchId: 812
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └錠前を全て外す
+    purposeNameEng: └Unlock all locks
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 48d31e68561395d46aad48b719921a62, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 813
+    disappearSwitchId: 175
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └鍵を入手する'
+    purposeNameEng: ' └Obtain key'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: bc8c052b2828ab84a88944c80d084914, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 813
+    disappearSwitchId: 166
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └鍵を入手する'
+    purposeNameEng: ' └Obtain key'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: f28c99cc2feed57428992f07ac37fa9e, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 813
+    disappearSwitchId: 160
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └鍵を入手する'
+    purposeNameEng: ' └Obtain key'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: fd2cd83288fcac142b02877fd6042509, type: 3}
+    enableSwitchId: 803
+    appearSwitchId: 813
+    disappearSwitchId: 182
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 998
+    appearSwitchId: 0
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女に手紙を渡す
+    purposeNameEng: Give letter to the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: d4f729ce970059b49aafde701475938b, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 453
+    disappearSwitchId: 455
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └少女の手紙を探す
+    purposeNameEng: └Find girl's letter
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: f9e8d898c20a327479bedeaf76de9112, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 453
+    disappearSwitchId: 450
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ２０９号室へ向かう
+    purposeNameEng: Head to Room 209
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4050663118e964f4183794d50f15c089, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 451
+    disappearSwitchId: 814
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 娯楽室へ向かう
+    purposeNameEng: Head to Day Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: b608a87e3209dd5409c0bfb01beaeab9, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 815
+    disappearSwitchId: 816
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: トランプカードを集める
+    purposeNameEng: Gather playing cards
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: c8226e5bf936f83488238c213e5241e5, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 817
+    disappearSwitchId: 818
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └スペードのカードを探す
+    purposeNameEng: └Find Spade Card
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 561a82ac5e82ddb4ba934c285c84ed8d, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 817
+    disappearSwitchId: 535
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: └ハートのカードを探す
+    purposeNameEng: └Find Heart Card
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 1f0a30f5bed54374e99aeecaa97e995a, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 817
+    disappearSwitchId: 536
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: └ダイヤのカードを探す
+    purposeNameEng: └Find Diamond Card
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: f70b71deb250eae469868a0719858d2e, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 817
+    disappearSwitchId: 538
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: └クラブのカードを探す
+    purposeNameEng: └Find Club Card
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 97fd4e6bb0b1687419aa2b06a47f34c3, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 817
+    disappearSwitchId: 537
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ダイヤル式の南京錠を外す
+    purposeNameEng: Unlock dial padlock
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 82d544330fbfef64dbfa82d953fe0054, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 819
+    disappearSwitchId: 541
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女に人形を渡す
+    purposeNameEng: Give doll to the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 30e5db77ba4938a41a96acd05b83802a, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 554
+    disappearSwitchId: 545
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └少女の人形を探す
+    purposeNameEng: └Find girl's doll
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: dc131b6adb40fc147b906fd4e3160bb0, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 554
+    disappearSwitchId: 542
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ２０９号室へ向かう
+    purposeNameEng: Head to Room 209
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4050663118e964f4183794d50f15c089, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 461
+    disappearSwitchId: 808
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 手紙をルーシーに届ける
+    purposeNameEng: Deliver letter to Lucy
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: effa29c6311e2eb4490c54ed8c7a1b08, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 463
+    disappearSwitchId: 467
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女に手紙を届けた事を伝える
+    purposeNameEng: Inform girl of delivery
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 28fcfabe82c1b9140aa9e36a71efc547, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 467
+    disappearSwitchId: 470
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女を探す
+    purposeNameEng: Find the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: b0d0d28afcc986947a36c6611edf5290, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 470
+    disappearSwitchId: 471
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ２０９号室へ向かう
+    purposeNameEng: Head to Room 209
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 4050663118e964f4183794d50f15c089, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 471
+    disappearSwitchId: 809
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 食堂へ向かう
+    purposeNameEng: Head to Dining Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: b139a92f6d907f544baac453a4e6e8fa, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 480
+    disappearSwitchId: 820
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: プールの扉の鍵を壊す
+    purposeNameEng: Smash pool door open
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 6c232f64986103a4e82af9b660b5898a, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 821
+    disappearSwitchId: 492
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └プールの扉を壊す道具を探す
+    purposeNameEng: └Find a door-smashing tool
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: c89bf778f11a68e40a6460ae2c335f30, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 821
+    disappearSwitchId: 490
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: カルテ室の鍵を入手する
+    purposeNameEng: Find Document Room key
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 9d654635d778e3849999816c4d088c56, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 486
+    disappearSwitchId: 494
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: カルテ室へ向かう
+    purposeNameEng: Head to Document Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: a9bd01f3d1df7ff42917aed22ae05174, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 494
+    disappearSwitchId: 499
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 院長室へ向かう
+    purposeNameEng: Head to Director's Room
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 833e9031e65e7bd489a075c66cb878b4, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 498
+    disappearSwitchId: 822
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: プールで酒瓶を探す
+    purposeNameEng: Find booze in the pool
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 35e696e63dbfa6346ad3d07325b460e7, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 500
+    disappearSwitchId: 501
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 甘い薬を入手する
+    purposeNameEng: Obtain Sweet Medicine
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: c87defe0d23d7824a815d5d5465c3d8f, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 475
+    disappearSwitchId: 507
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: └甘い薬を作る
+    purposeNameEng: └Create Sweet Medicine
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 456d94950a10cc546a7c01ded733b6d7, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 483
+    disappearSwitchId: 507
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └ベリージャムを入手する'
+    purposeNameEng: ' └Obtain Berry Jam'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 3a6bd1b18de60704ebca3ad3ef18c6bc, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 483
+    disappearSwitchId: 485
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └ジンを入手する'
+    purposeNameEng: ' └Obtain Gin'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 35e696e63dbfa6346ad3d07325b460e7, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 483
+    disappearSwitchId: 501
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └蜂蜜を入手する'
+    purposeNameEng: ' └Obtain Honey'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 22a9087046540c044b71eae74c7914fd, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 483
+    disappearSwitchId: 502
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: ' └ミントシロップを入手する'
+    purposeNameEng: ' └Obtain Mint Syrup'
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 1c5c0d77f9bde09429dff9e23c6e5754, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 483
+    disappearSwitchId: 505
+    subPurposeFlag: 1
+    deleteFlag: 0
+  - purposeNameJap: 少女に甘い薬を渡す
+    purposeNameEng: Give Mint Syrup to the girl
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 92821f9ac836533438f1cbc8e344148b, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 507
+    disappearSwitchId: 511
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 手紙をルーシーに届ける
+    purposeNameEng: Deliver letter to Lucy
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: fc4bd62205a90ac4b812c7b176aa5779, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 511
+    disappearSwitchId: 518
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 少女に手紙を届けた事を伝える
+    purposeNameEng: Inform girl of delivery
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: 759d4da9709edf14d9d4cdf76d302186, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 518
+    disappearSwitchId: 525
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: 薔薇園に向かう
+    purposeNameEng: Head to rose garden
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 2800000, guid: b71ae5ee2837bf449a9f82a3bab6bd12, type: 3}
+    enableSwitchId: 800
+    appearSwitchId: 525
+    disappearSwitchId: 530
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap:
+    purposeNameEng:
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 998
+    appearSwitchId: 0
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ベイジル
+    purposeNameEng: Basil
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ケイト
+    purposeNameEng: Kate
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: アーネスト
+    purposeNameEng: Ernest
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ヴィクター
+    purposeNameEng: Victor
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: アイダ
+    purposeNameEng: Ida
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ファニー
+    purposeNameEng: Fanny
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: クェンティン
+    purposeNameEng: Quentin
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: タイタス
+    purposeNameEng: Titus
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: ジェイムズ
+    purposeNameEng: James
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  - purposeNameJap: オリーヴ
+    purposeNameEng: Olive
+    purposeExplainJap: []
+    purposeExplainEng: []
+    purposePicture: {fileID: 0}
+    enableSwitchId: 804
+    appearSwitchId: 87
+    disappearSwitchId: 0
+    subPurposeFlag: 0
+    deleteFlag: 0
+  purposeSortNumber: 0100000002000000030000000400000005000000060000000b0000000c0000000d0000000e0000000f00000010000000110000000700000008000000090000000a000000120000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002b0000002c0000002d0000002e0000002f0000003000000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f0000005000000051000000520000005300000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e000000

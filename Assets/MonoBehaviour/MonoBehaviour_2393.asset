@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 1
+  transitionDuration: 0.14999938
+  startTime: 17.68
+  playbackDuration: 15.500001
+  stateDuration: 15.500001
+  stateName: AnimationManager.player_cut09_1
+  track: {fileID: 11400000, guid: a216a033725d1a04695d1566109b2638, type: 2}
+  targetObject: {fileID: 392, guid: 00955d574a22b8e4c958015333b50b93, type: 2}

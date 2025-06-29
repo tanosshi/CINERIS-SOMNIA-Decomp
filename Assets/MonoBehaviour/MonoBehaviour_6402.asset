@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 104.69
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 3.4203491
+      value: 110.7943
+      inSlope: 0.73523414
+      outSlope: 0.73523414
+      tangentMode: 0
+    - time: 4
+      value: 110.61215
+      inSlope: -1.2424263
+      outSlope: -1.2424263
+      tangentMode: 0
+    - time: 7.8
+      value: 105.07198
+      inSlope: -3.0103981
+      outSlope: -3.0103981
+      tangentMode: 0
+    - time: 8.799927
+      value: 99.96278
+      inSlope: -4.7014785
+      outSlope: -4.7014785
+      tangentMode: 0
+    - time: 10.78534
+      value: 90.33
+      inSlope: 0.9610989
+      outSlope: 0.9610989
+      tangentMode: 0
+    - time: 11.531982
+      value: 92.47158
+      inSlope: 5.241563
+      outSlope: 5.241563
+      tangentMode: 0
+    - time: 15
+      value: 118.88
+      inSlope: 6.5081635
+      outSlope: 6.5081635
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 7eebc134343f62b4680c847a7e526c12, type: 2}
+  - {fileID: 11400000, guid: 9673e916d9a2d3c44bdd7c12b96973a3, type: 2}
+  - {fileID: 11400000, guid: 0d7ac8eb95a91554ca929eca9d7283f0, type: 2}
+  - {fileID: 11400000, guid: 8c0c5ee133b658d4089103391c62b81f, type: 2}
+  - {fileID: 11400000, guid: a8ebe032aab6dba449d5559e082c1e02, type: 2}
+  - {fileID: 11400000, guid: c61ce30443bca704fbaa08676341dbeb, type: 2}
+  - {fileID: 11400000, guid: 438c885f892fc094fabd010145ab1492, type: 2}
+  - {fileID: 11400000, guid: cc6d8e4fcab37c841abff42428f26181, type: 2}
+  useCurrentValue: 0
+  duration: 15

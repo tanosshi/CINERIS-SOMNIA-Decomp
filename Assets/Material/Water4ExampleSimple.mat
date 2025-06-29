@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Water4ExampleSimple
+  m_Shader: {fileID: 4800000, guid: 3a084f32bf34e574583f983f09936618, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: f5d000ecdfad4064f91fa02feb3ad24a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 64067fc16468d6c4086038c1b679db49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ReflectionTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _FresnelScale
+      second: 0.74
+    - first:
+        name: _GerstnerIntensity
+      second: 1
+    - first:
+        name: _HeightDisplacement
+      second: 2.3370318
+    - first:
+        name: _NormalsDisplacement
+      second: 72.72728
+    - first:
+        name: _Shininess
+      second: 249
+    m_Colors:
+    - first:
+        name: _AnimationDirection
+      second: {r: 2, g: 1, b: -1, a: 1}
+    - first:
+        name: _AnimationTiling
+      second: {r: 0.4, g: 0.39099997, b: 0.56, a: 0.7}
+    - first:
+        name: _BaseColor
+      second: {r: 0.34240052, g: 0.8903019, b: 0.99999994, a: 0.76862746}
+    - first:
+        name: _BumpDirection
+      second: {r: 1, g: 30, b: 20, a: -20}
+    - first:
+        name: _BumpTiling
+      second: {r: 0.04, g: 0.04, b: 0.04, a: 0.08}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _DepthColor
+      second: {r: 0.29811764, g: 0.36611718, b: 0.39552242, a: 0.34509805}
+    - first:
+        name: _DistortParams
+      second: {r: -2.45, g: 0.5, b: 1.61, a: -1.06}
+    - first:
+        name: _Foam
+      second: {r: 0.3275862, g: 0.7471264, b: 0, a: 0}
+    - first:
+        name: _GAmplitude
+      second: {r: 0, g: 0, b: 0, a: 0}
+    - first:
+        name: _GDirectionAB
+      second: {r: 0, g: 0.25, b: 0.25, a: 0.25}
+    - first:
+        name: _GDirectionCD
+      second: {r: 1.6, g: 1.2, b: 1.5, a: 1.54}
+    - first:
+        name: _GFrequency
+      second: {r: 0.78, g: 0.63, b: 0.68, a: 0.59}
+    - first:
+        name: _GSpeed
+      second: {r: 0, g: 2, b: 1, a: 1}
+    - first:
+        name: _GSteepness
+      second: {r: 3.0301306, g: 1, b: 1, a: 1}
+    - first:
+        name: _InvFadeParemeter
+      second: {r: 0.001, g: 0.08562102, b: 0.09414239, a: 1.36}
+    - first:
+        name: _ReflectionColor
+      second: {r: 0.9265764, g: 0.99999994, b: 0.99693567, a: 1}
+    - first:
+        name: _RefractionFog
+      second: {r: 0.8681778, g: 0.8797176, b: 0.8880597, a: 1}
+    - first:
+        name: _SpecularColor
+      second: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 1}
+    - first:
+        name: _WorldLightDir
+      second: {r: 0.62724096, g: -0.76714337, b: -0.13438755, a: 0}

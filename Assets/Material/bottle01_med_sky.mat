@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: bottle01_med_sky
+  m_Shader: {fileID: 4800000, guid: 479cbd969a29a8d4e880f3a62cbead86, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 8c227ff4f5688c14eb27fc7218d6f12b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 8c227ff4f5688c14eb27fc7218d6f12b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EdgeAlpha
+      second: 0.6567164
+    - first:
+        name: _Fresnel
+      second: 0.30357143
+    - first:
+        name: _FrezFalloff
+      second: 8.656716
+    - first:
+        name: _FrezPow
+      second: 0.077210076
+    - first:
+        name: _Gloss
+      second: 0.9104478
+    - first:
+        name: _Metalics
+      second: 1
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _Reflection
+      second: 0.8599311
+    - first:
+        name: _Shininess
+      second: 7.014718
+    - first:
+        name: _SpecInt
+      second: 3.5
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}

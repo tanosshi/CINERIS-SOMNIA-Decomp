@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Terrain_sana_garden
+  m_Shader: {fileID: 4800000, guid: 9ddac77457ccf18418a0c3490da5e494, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Control
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal0
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal1
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal2
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal3
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat0
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat1
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat2
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat3
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _DetailWeight
+      second: 1
+    - first:
+        name: _DiffFresnel
+      second: 0.83
+    - first:
+        name: _FadeNear
+      second: 500
+    - first:
+        name: _FadeRange
+      second: 100
+    - first:
+        name: _Fresnel0
+      second: 0.51785713
+    - first:
+        name: _Fresnel1
+      second: 0
+    - first:
+        name: _Fresnel2
+      second: 0
+    - first:
+        name: _Fresnel3
+      second: 0.32142857
+    - first:
+        name: _Fresnel4
+      second: 0
+    - first:
+        name: _Fresnel5
+      second: 0.23214287
+    - first:
+        name: _Fresnel6
+      second: 0
+    - first:
+        name: _Fresnel7
+      second: 0
+    - first:
+        name: _Gloss0
+      second: 1
+    - first:
+        name: _Gloss1
+      second: 0.96428573
+    - first:
+        name: _Gloss2
+      second: 1
+    - first:
+        name: _Gloss3
+      second: 1
+    - first:
+        name: _Shininess
+      second: 1
+    - first:
+        name: _SpecFresnel
+      second: 0.21428572
+    - first:
+        name: _SpecInt
+      second: 1
+    - first:
+        name: _SpecInt0
+      second: 0.05357143
+    - first:
+        name: _SpecInt1
+      second: 0.071428575
+    - first:
+        name: _SpecInt2
+      second: 0.071428575
+    - first:
+        name: _SpecInt3
+      second: 0.26785716
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.8602941, g: 0.8602941, b: 0.8602941, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}

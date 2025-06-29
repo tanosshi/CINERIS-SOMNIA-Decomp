@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 2-wall_green1
+  m_Shader: {fileID: 4800000, guid: f415267ff4b82af4994d4e1c7b927430, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: a6b622d5d86302345855cb0b2b190843, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: da79d5e4af03b0c4eb5f50d771cebf3e, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecTex
+      second:
+        m_Texture: {fileID: 2800000, guid: da79d5e4af03b0c4eb5f50d771cebf3e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Fresnel
+      second: 0.2857143
+    - first:
+        name: _Shininess
+      second: 7.3316884
+    - first:
+        name: _SpecInt
+      second: 1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.75735295, g: 0.75735295, b: 0.75735295, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.5441177, g: 0.5441177, b: 0.5441177, a: 1}

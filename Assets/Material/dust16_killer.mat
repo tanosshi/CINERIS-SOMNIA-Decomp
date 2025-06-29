@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: dust16_killer
+  m_Shader: {fileID: 4800000, guid: f421ac821430ccc479059ba2cb901d30, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _FlowBump
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlowMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 89da97b79566b69409b13a9657a793c9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FlowTexture
+      second:
+        m_Texture: {fileID: 2800000, guid: ed6c4e9fde19df742bf7cafc4fb25cb1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Noise
+      second:
+        m_Texture: {fileID: 2800000, guid: a8cc5ff9fab410d4894e42e039a7fa61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DistorScale
+      second: 0
+    - first:
+        name: _Emission
+      second: 0.35714287
+    - first:
+        name: _FlowShininess
+      second: 0.078125
+    - first:
+        name: _RevealPow
+      second: 128
+    - first:
+        name: _RevealSize
+      second: 1
+    - first:
+        name: _Shininess
+      second: 0.32131165
+    - first:
+        name: _Strength
+      second: 0.12500001
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _FlowColor
+      second: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 1}
+    - first:
+        name: _FlowSpecularColor
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.99999994, g: 0.9926472, b: 0.9926472, a: 1}

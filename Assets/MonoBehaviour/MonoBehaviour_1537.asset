@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 3
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 4
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 4.7
+      value: 2
+      inSlope: 0.024746997
+      outSlope: 0.024746997
+      tangentMode: 0
+    - time: 5
+      value: -1.3
+      inSlope: -0.018247379
+      outSlope: -0.018247379
+      tangentMode: 0
+    - time: 5.7
+      value: 1
+      inSlope: 0.06200931
+      outSlope: 0.06200931
+      tangentMode: 0
+    - time: 6.5
+      value: 0
+      inSlope: 0.009740636
+      outSlope: 0.009740636
+      tangentMode: 0
+    - time: 7.5
+      value: 1.3
+      inSlope: 0.028299732
+      outSlope: 0.028299732
+      tangentMode: 0
+    - time: 10
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 6040c9104e731ee4eb56accf47f1fc30, type: 2}
+  - {fileID: 11400000, guid: 628124cb4fba81c47867bf9397e7ba2c, type: 2}
+  - {fileID: 11400000, guid: fa8ccc59cf81a5041819546d9302838f, type: 2}
+  - {fileID: 11400000, guid: 0ff4dc7dabd85284585ba41252dafc7b, type: 2}
+  - {fileID: 11400000, guid: 24e0b646e942d424ba83689d85d98696, type: 2}
+  - {fileID: 11400000, guid: 8c99d6e15be8d704cb0fcf05c87a0d5f, type: 2}
+  - {fileID: 11400000, guid: 4c34420ffdddb274faa1f9dbb9e70755, type: 2}
+  - {fileID: 11400000, guid: 71edacf696a8c1a43850593463b7484f, type: 2}
+  - {fileID: 11400000, guid: b325ceb79fc2b4e45a75473839ab27eb, type: 2}
+  useCurrentValue: 0
+  duration: 10

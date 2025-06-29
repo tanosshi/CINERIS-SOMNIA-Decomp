@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 831296348, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  trackClipList:
+  - {fileID: 11400000, guid: ba7cd9bff81881f4999df62bc0e85e40, type: 2}
+  - {fileID: 11400000, guid: 1262b5c311dbc4742bf7302c560cb2c3, type: 2}
+  - {fileID: 11400000, guid: fbc3d92a009895645ba05b756ac90597, type: 2}
+  - {fileID: 11400000, guid: c0538f833835dc74fa66a2b3447fb5e1, type: 2}
+  - {fileID: 11400000, guid: 279077a3faea91a47b867e05a1e68c86, type: 2}
+  - {fileID: 11400000, guid: cbb0d07976323be459cceed74920cc07, type: 2}
+  - {fileID: 11400000, guid: 33d56227ce39baf429851afd2e846194, type: 2}
+  - {fileID: 11400000, guid: fd5058caf8e1b714aaa5fe55cca594d1, type: 2}
+  - {fileID: 11400000, guid: 9023505488df714408289a6f32d5e8ac, type: 2}
+  - {fileID: 11400000, guid: 25e3dcc4a84b19c4b88483a2de146e4b, type: 2}
+  - {fileID: 11400000, guid: 410bfd94aeb3399469e7827f53b5f4ef, type: 2}
+  layer: 3

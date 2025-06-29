@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1.3091894
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2.5
+      value: 1.3091894
+      inSlope: -0.10432745
+      outSlope: -0.10432745
+      tangentMode: 0
+    - time: 4
+      value: 0.9709462
+      inSlope: -0.3960547
+      outSlope: -0.3960547
+      tangentMode: 0
+    - time: 5.1
+      value: 0.57077175
+      inSlope: -0.3438263
+      outSlope: -0.3438263
+      tangentMode: 0
+    - time: 6.188525
+      value: 0.29730943
+      inSlope: -0.31754065
+      outSlope: -0.31754065
+      tangentMode: 0
+    - time: 7
+      value: 0.021
+      inSlope: -0.3405026
+      outSlope: -0.3405026
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: e6e9e1170678c624fb390be57e01bd1f, type: 2}
+  - {fileID: 11400000, guid: 28ceefc8864238c46a0927dfe27dd1b9, type: 2}
+  - {fileID: 11400000, guid: 9564df869d6475b4eb93e63f74010a9f, type: 2}
+  - {fileID: 11400000, guid: 928bfcd7aa0263a42aa42502b0cad826, type: 2}
+  - {fileID: 11400000, guid: 04f6d0b38119b434b9314f42e0ba5e60, type: 2}
+  - {fileID: 11400000, guid: a7a3df8aae9ce254086e6327d624c06a, type: 2}
+  useCurrentValue: 0
+  duration: 7

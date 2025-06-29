@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.041353248
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 3.4203491
+      value: 0.0060016075
+      inSlope: -0.047656585
+      outSlope: -0.047656585
+      tangentMode: 0
+    - time: 4
+      value: -0.043255668
+      inSlope: -0.008296005
+      outSlope: -0.008296005
+      tangentMode: 0
+    - time: 7.8
+      value: -0.062063333
+      inSlope: 0.00095081003
+      outSlope: 0.00095081003
+      tangentMode: 0
+    - time: 8.799927
+      value: -0.06728018
+      inSlope: 0.018937437
+      outSlope: 0.018937437
+      tangentMode: 0
+    - time: 10.78534
+      value: 0.01827547
+      inSlope: 0.021536194
+      outSlope: 0.021536194
+      tangentMode: 0
+    - time: 11.531982
+      value: 0.086526185
+      inSlope: 0.045685437
+      outSlope: 0.045685437
+      tangentMode: 0
+    - time: 15
+      value: 0.086389765
+      inSlope: 0.030370308
+      outSlope: 0.030370308
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: b110a28056a606246b6430721d7ce109, type: 2}
+  - {fileID: 11400000, guid: 44f449c8e752f684197c874b12346491, type: 2}
+  - {fileID: 11400000, guid: d77ce97d6b82b1343938f07f5a5575dc, type: 2}
+  - {fileID: 11400000, guid: a40c618d10d609947843657cceb55a7c, type: 2}
+  - {fileID: 11400000, guid: c0a936076faa3f24aaa85778f633cfaa, type: 2}
+  - {fileID: 11400000, guid: 6148a2ce4bff8f941a4b7faede1d09e6, type: 2}
+  - {fileID: 11400000, guid: 99df192f02a6c5b42ad2119342d816c7, type: 2}
+  - {fileID: 11400000, guid: c05ea1d2fde0ecc43bc261a761cd588b, type: 2}
+  useCurrentValue: 0
+  duration: 15

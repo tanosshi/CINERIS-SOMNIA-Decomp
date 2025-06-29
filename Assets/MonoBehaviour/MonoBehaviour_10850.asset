@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 1
+  transitionDuration: 0.38275206
+  startTime: 0.61724794
+  playbackDuration: 1.3333334
+  stateDuration: 1.3333334
+  stateName: Base.Walk_cut
+  track: {fileID: 11400000, guid: a471f9d6e5083e248a2f9ab1219bc69d, type: 2}
+  targetObject: {fileID: 738, guid: c31cb8bf97c40234ba0bd2c9ccf28a9c, type: 2}

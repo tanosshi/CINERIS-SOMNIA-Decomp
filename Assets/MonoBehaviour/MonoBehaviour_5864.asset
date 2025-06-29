@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 68.13831
+      value: 0
+      inSlope: -0.01657759
+      outSlope: -0.01657759
+      tangentMode: 0
+    - time: 70.13831
+      value: -0.03315518
+      inSlope: -0.008288795
+      outSlope: -0.008288795
+      tangentMode: 0
+    - time: 71.13831
+      value: -0.03315518
+      inSlope: 0.0127520375
+      outSlope: 0.0127520375
+      tangentMode: 0
+    - time: 72.43831
+      value: 0
+      inSlope: -0.021057073
+      outSlope: -0.021057073
+      tangentMode: 0
+    - time: 74.73831
+      value: -0.15552212
+      inSlope: 0.105308026
+      outSlope: 0.105308026
+      tangentMode: 0
+    - time: 76.73831
+      value: 0.40094644
+      inSlope: 0.005468324
+      outSlope: 0.005468324
+      tangentMode: 0
+    - time: 78.23831
+      value: 0
+      inSlope: -0.13364881
+      outSlope: -0.13364881
+      tangentMode: 0
+    - time: 79.73831
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 20f7d5eff2ac0734ba580b09510e722b, type: 2}
+  - {fileID: 11400000, guid: 8f27c63cb36a55441ab59b283a970462, type: 2}
+  - {fileID: 11400000, guid: 98554ff30a1f9fe4fbd879de1ffef43b, type: 2}
+  - {fileID: 11400000, guid: e1715b6b13d3ec243ae9cf057178b2cf, type: 2}
+  - {fileID: 11400000, guid: abfcaf68c22e3824fa64de12d410d81a, type: 2}
+  - {fileID: 11400000, guid: ade65dc26e6913a4facecc8e56566736, type: 2}
+  - {fileID: 11400000, guid: a845486ef2d8a8c4691a2ed7b7330ab5, type: 2}
+  - {fileID: 11400000, guid: 3a9184d250a4646489dbac88878bc0fc, type: 2}
+  useCurrentValue: 0
+  duration: 79.73831

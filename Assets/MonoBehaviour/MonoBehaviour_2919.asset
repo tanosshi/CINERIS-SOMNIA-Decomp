@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 6.546972
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 8.546972
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 10.24609
+      value: 3
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 18.74609
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 22.44027
+      value: 5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 29.44027
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 32.01187
+      value: 7
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 35.01187
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 37.01187
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 6f656b5b6de9d404eb2f164419a8fc88, type: 2}
+  - {fileID: 11400000, guid: 2e666c55fd499f04f920b255f62911e4, type: 2}
+  - {fileID: 11400000, guid: 6df58fc68091c004f8578d8ee086e942, type: 2}
+  - {fileID: 11400000, guid: f889535bdba189f45ac8e1b46d73eb0a, type: 2}
+  - {fileID: 11400000, guid: 519e905ff95098e4b97fb92c0425531a, type: 2}
+  - {fileID: 11400000, guid: bc5d3fff02e5f8c439aece5e9afc5f24, type: 2}
+  - {fileID: 11400000, guid: 904cdb43dde7baa459b388441bcbfcab, type: 2}
+  - {fileID: 11400000, guid: f09001cbed008a0418d87ab2daaa888b, type: 2}
+  - {fileID: 11400000, guid: 65f1143410e907b4191c5d7695a7b473, type: 2}
+  - {fileID: 11400000, guid: 94e7db14d1b421346af87542cde73a45, type: 2}
+  useCurrentValue: 0
+  duration: 37.01187

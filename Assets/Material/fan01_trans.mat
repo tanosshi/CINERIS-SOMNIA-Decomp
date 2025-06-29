@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fan01_trans
+  m_Shader: {fileID: 4800000, guid: 5db828dbab060be4eaf630843fffa836, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 24c337e6d3e47a74495064e314215d12, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 3f579c4568114e54cbd0c6493b699e76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Shininess
+      second: 0.20665379
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.72794116, g: 0.72794116, b: 0.72794116, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.39705884, g: 0.39705884, b: 0.39705884, a: 0}

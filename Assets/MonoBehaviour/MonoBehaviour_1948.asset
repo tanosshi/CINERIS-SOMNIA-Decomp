@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -0.16354957
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: -0.16354957
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.3
+      value: -0.27
+      inSlope: -0.17741743
+      outSlope: -0.17741743
+      tangentMode: 0
+    - time: 3
+      value: -0.27
+      inSlope: 0.014841989
+      outSlope: 0.014841989
+      tangentMode: 0
+    - time: 4
+      value: -0.328
+      inSlope: -0.006480992
+      outSlope: -0.006480992
+      tangentMode: 0
+    - time: 5.5
+      value: -0.328
+      inSlope: 0.004125365
+      outSlope: 0.004125365
+      tangentMode: 0
+    - time: 6.9
+      value: -0.316449
+      inSlope: 0.0046226303
+      outSlope: 0.0046226303
+      tangentMode: 0
+    - time: 8
+      value: -0.315355
+      inSlope: -0.0013091641
+      outSlope: -0.0013091641
+      tangentMode: 0
+    - time: 11.5
+      value: -0.328
+      inSlope: -0.0023215795
+      outSlope: -0.0023215795
+      tangentMode: 0
+    - time: 14.8
+      value: -0.32853425
+      inSlope: 0.0041638296
+      outSlope: 0.0041638296
+      tangentMode: 0
+    - time: 16.5
+      value: -0.316
+      inSlope: 0.028357066
+      outSlope: 0.028357066
+      tangentMode: 0
+    - time: 18
+      value: -0.1749227
+      inSlope: 0.056430925
+      outSlope: 0.056430925
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: f386406e73d0cbf43890737bc02351a7, type: 2}
+  - {fileID: 11400000, guid: e898e4d5eb1087c468612eee1a3296ed, type: 2}
+  - {fileID: 11400000, guid: 3f45da6ef116250498021637c002abbf, type: 2}
+  - {fileID: 11400000, guid: e35447620c862664b8a843cdf3c54ca9, type: 2}
+  - {fileID: 11400000, guid: 6768a416c35b3064da1b8060a7dfff87, type: 2}
+  - {fileID: 11400000, guid: 63ba6c707bce0444fba0c8a27e47e84f, type: 2}
+  - {fileID: 11400000, guid: 83dbd065bc74a874286857205ff3b56b, type: 2}
+  - {fileID: 11400000, guid: 83224c3599806e84bae31d241deec84c, type: 2}
+  - {fileID: 11400000, guid: 6c3b4689283e1a6459c629d7d24b9d58, type: 2}
+  - {fileID: 11400000, guid: 4b8fa61352c1226459fda393667b93b9, type: 2}
+  - {fileID: 11400000, guid: a72d47a6ecb12d346be6df52d62a3b7b, type: 2}
+  - {fileID: 11400000, guid: 994ada31cd89f9447b5cde58494dd259, type: 2}
+  useCurrentValue: 0
+  duration: 18

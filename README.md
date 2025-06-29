@@ -1,6 +1,6 @@
 # CINERIS SOMNIA Decomp 🚧
 
-### Decompiled for Unity x.x.x
+### Decompiled for Unity 4.7.2f1
 
 CINERIS SOMNIA is a 3D adventure through a beautifully strange and mesmerizing world. This decompilation will not include anything extra.
 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1219359206, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  crossFade: 0
+  transitionDuration: 0
+  startTime: 0
+  playbackDuration: 1
+  stateDuration: 1
+  stateName: Base Layer.bird_fly02
+  track: {fileID: 11400000, guid: 406e37aaf4d76b84b957e8c1e625cc97, type: 2}
+  targetObject: {fileID: 62, guid: 8fb93bd30dd968f4d917c745a5d63bda, type: 2}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 6
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 14
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 17
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 38
+      value: 0.56
+      inSlope: Infinity
+      outSlope: 0
+      tangentMode: 0
+    - time: 39.46516
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 43.16
+      value: 0.56
+      inSlope: -0
+      outSlope: 0
+      tangentMode: 0
+    - time: 80
+      value: 0.56
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 4d1ba3be57d47b243bab7999913d0728, type: 2}
+  - {fileID: 11400000, guid: 7f6b6690591f3bf4784cc4400b2afb7f, type: 2}
+  - {fileID: 11400000, guid: 21c6b044c9799a94cb4395059171a0cb, type: 2}
+  - {fileID: 11400000, guid: e0d6791cee6615c478ee8643c4d4c0c7, type: 2}
+  - {fileID: 11400000, guid: 8c6e70c78242c4046b0b57a48bc7e756, type: 2}
+  - {fileID: 11400000, guid: 3a5ac2dfa1a681844a941b78b289971c, type: 2}
+  - {fileID: 11400000, guid: b22b73fc4345e6a42afbf9b858db7d49, type: 2}
+  - {fileID: 11400000, guid: cebcaa48d8367aa498217147810c9f0a, type: 2}
+  - {fileID: 11400000, guid: 862acaf62961d244dac19b4befe1a9d4, type: 2}
+  useCurrentValue: 0
+  duration: 80

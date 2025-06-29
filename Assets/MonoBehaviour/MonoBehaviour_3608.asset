@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 831296348, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  trackClipList:
+  - {fileID: 11400000, guid: 786e775101de4f748bfd988767b41c4c, type: 2}
+  - {fileID: 11400000, guid: d3a6bad896a69d04a8ad42fa6fba09fa, type: 2}
+  - {fileID: 11400000, guid: 2c656d1e193a8b545b6d0361b793f292, type: 2}
+  - {fileID: 11400000, guid: 702d2e9d2aab3b64699a4b7d4dca485b, type: 2}
+  - {fileID: 11400000, guid: 62aa07fc3402e354e979cdbfbd0c03bb, type: 2}
+  - {fileID: 11400000, guid: 78c705b9021077741a94f0ad327e4eb5, type: 2}
+  layer: 0

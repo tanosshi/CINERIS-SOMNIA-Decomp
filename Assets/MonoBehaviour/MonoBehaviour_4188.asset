@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: 70c22710c46567bf277689c71c270392, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -61.686657
+      inSlope: -2.3864236
+      outSlope: -2.3864236
+      tangentMode: 0
+    - time: 0.6
+      value: -63.11851
+      inSlope: -1.5553284
+      outSlope: -1.5553284
+      tangentMode: 0
+    - time: 0.9
+      value: -63.33578
+      inSlope: -0.71126485
+      outSlope: -0.71126485
+      tangentMode: 0
+    - time: 1.6
+      value: -63.82459
+      inSlope: -0.57715005
+      outSlope: -0.57715005
+      tangentMode: 0
+    - time: 2.3
+      value: -64.14379
+      inSlope: -0.7418986
+      outSlope: -0.7418986
+      tangentMode: 0
+    - time: 2.9
+      value: -64.76047
+      inSlope: -0.37027347
+      outSlope: -0.37027347
+      tangentMode: 0
+    - time: 3.4
+      value: -64.616844
+      inSlope: 0.8446631
+      outSlope: 0.8446631
+      tangentMode: 0
+    - time: 4
+      value: -63.775597
+      inSlope: 1.4020795
+      outSlope: 1.4020795
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 94971f0d372b1f24e9df4db18c23b64a, type: 2}
+  - {fileID: 11400000, guid: 89ba2bd017a914844939522003e2f56b, type: 2}
+  - {fileID: 11400000, guid: 8c2e1ab28114894469d9a3091fa1ca9b, type: 2}
+  - {fileID: 11400000, guid: a1b136722576ede47b71e8decda1fe7e, type: 2}
+  - {fileID: 11400000, guid: f708e5f6a64e61342b22164f0d903162, type: 2}
+  - {fileID: 11400000, guid: 27138b79ce68b204fb7346ae9a5bf536, type: 2}
+  - {fileID: 11400000, guid: 8de0bdeae00fbbd40ad2e92d026b41ed, type: 2}
+  - {fileID: 11400000, guid: 5bc0e8ac3414756428a370cceb3a9559, type: 2}
+  useCurrentValue: 0
+  duration: 4

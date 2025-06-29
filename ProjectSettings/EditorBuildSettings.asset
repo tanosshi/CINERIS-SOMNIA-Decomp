@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/[000]logo.unity
+  - enabled: 1
+    path: Assets/Scenes/[000]title.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_water1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_lh1_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_base1_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_stair1_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_bath1_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_top1_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_beach2_girl.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_garden1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_green1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_morgue1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_pant1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_pant1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_base1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_gal1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_hall1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_billi1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_pant2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_kit1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_bath1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_mor1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_mor2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_serv1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_din1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_music1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_music2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri4_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri5.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_corri5_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_sit1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_base.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_pant2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_mor.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_hall.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_bili.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_corri5.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_room2_corri4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_smo1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_bed1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_bed2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_path1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_street.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]cat_church1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]specimenroom1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]specimenroom1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]specimenroom1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_exam1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_nurse1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri3_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri2_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_yard1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm5_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardf1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardm1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_doc2_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_ope1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_bath1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_friend1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm4_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri3_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_doc2_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_ope1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_bath1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_friend1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm4_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_exam1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_nurse1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri2_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_yard1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm5_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardf1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardm1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri3_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_doc2_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_ope1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_bath1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_friend1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm4_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_exam1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_nurse1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri2_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_yard1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm5_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardf1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_wardm1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_din1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_kit1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_pool1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_stack1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_pool2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_doc2_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_doc1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_din2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm1_5.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri3_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_bath1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_ope1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_exam1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_yard1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri2_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_rm5_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_nurse1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_stair1_fix.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_corri4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_path1_fix.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_garden1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_kit1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_day1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_day1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_day1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_day1_4.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]sana_morgue1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_tree1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_lake1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_flower1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_house1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_stair1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_work1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_manor1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_work1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_beach2_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_lh1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_base1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_stair1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_bath1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fish_top1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]specimenroom1_player.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]fore_flower1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]ashes1.unity
+  - enabled: 1
+    path: Assets/Scenes/[00-]saveload.unity

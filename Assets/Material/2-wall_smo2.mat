@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 2-wall_smo2
+  m_Shader: {fileID: 4800000, guid: 8b78e33b4829700428ee173bcc4c0b61, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 4127f1ca0ff104e48bc92ce05f5dcc3a, type: 3}
+        m_Scale: {x: 5, y: 4}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 9c69dfae95bfc44459c448d28ca64b22, type: 3}
+        m_Scale: {x: 5, y: 4}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Shininess
+      second: 0.3706869
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.6865672, g: 0.6865672, b: 0.6865672, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.6985294, g: 0.6985294, b: 0.6985294, a: 1}
