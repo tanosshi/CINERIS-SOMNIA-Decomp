@@ -4,6 +4,8 @@
 
 CINERIS SOMNIA is a 3D adventure through a beautifully strange and mesmerizing world. This decompilation will not include anything extra.
 
+![thumb](https://media.rawg.io/media/resize/1920/-/screenshots/5c6/5c69eee8f21814a1229b41cda2c8df6d.jpg)
+
 Todo
 
 ✔️ Completed ⏳ Expected soon
