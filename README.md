@@ -10,11 +10,9 @@ Todo
 
 ✔️ Completed ⏳ Expected soon
 
-- Decompile source ⏳
+- Decompile source ✔️
 
 - Fully load every asset ⏳
-
-#### Currently no files uploaded, give it a day or two.
 
 <table role="table">
 <thead>
